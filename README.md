@@ -1,2 +1,1 @@
-# AMA
-Ask me Anything
+# Ask me Anything [AMA](https://github.com/cantzakas/AMA)
